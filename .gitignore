@@ -1,0 +1,26 @@
+# Corpus: other people's PDFs and converted papers. Never commit.
+raw-papers/
+*.pdf
+
+# The Obsidian vault is a separate (private) folder of notes. Never commit.
+obsidian-vault/
+
+# graphify outputs embed paper-derived prose (node `rationale` / `evidence`) and
+# third-party author names. Regenerate locally; do not commit.
+graphify-out/
+.graphify_*
+
+# Scratch work.
+.scratch/
+
+# Third-party bundles - bring your own copy (see CREDITS.md).
+vis-network*.js
+
+# Manual PNG export from the HTML graph.
+graph.png
+
+# Python / OS noise.
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

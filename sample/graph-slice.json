@@ -1,0 +1,274 @@
+{
+  "note": "Trimmed structural slice of one real community from a real graphify run. Removed on purpose: 'author' (third-party names) and 'rationale'/'evidence' (paper-derived prose). Kept: node labels (paper titles / concept names), node type, community id, edge relation + confidence.",
+  "source": "Papers-vault graph, graphifyy 0.9.65, built 2026-09-23",
+  "full_graph": {
+    "nodes": 680,
+    "links": 913,
+    "hyperedges": 27,
+    "communities": 61
+  },
+  "community": 10,
+  "community_name": "Morphological Design of Soft Robots",
+  "slice": {
+    "nodes": 16,
+    "links": 21
+  },
+  "nodes": [
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_feifei_chen",
+      "label": "Feifei Chen",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_guoying_gu",
+      "label": "Guoying Gu",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "label": "Morphological Design of Pneumatic Soft Robots",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_robot_arm",
+      "label": "Continuous Soft Robot Arm",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shanghai_jiao_tong_university",
+      "label": "Shanghai Jiao Tong University",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shitong_chen",
+      "label": "Shitong Chen",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_twisting_actuator",
+      "label": "Pneumatic Soft Twisting Actuator",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_xiangyang_zhu",
+      "label": "Xiangyang Zhu",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_zenan_song",
+      "label": "Zenan Song",
+      "file_type": "concept",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_caasenbrood_topology_optimization",
+      "label": "Computational Design Framework via Nonlinear Topology Optimization (Caasenbrood et al.)",
+      "file_type": "paper",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_chen_triply_periodic_channels",
+      "label": "Triply Periodic Channels Linear Actuator (Chen et al.)",
+      "file_type": "paper",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_maloisel_muscle_fiber_routing",
+      "label": "Automated Routing of Muscle Fibers for Soft Robots (Maloisel et al.)",
+      "file_type": "paper",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_paper",
+      "label": "Morphological Design for Pneumatic Soft Actuators and Robots With Desired Deformation Behavior",
+      "file_type": "paper",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_inverse_design_problem",
+      "label": "Inverse Shape Design Problem",
+      "file_type": "rationale",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shape_matching_objective",
+      "label": "Position and Orientation Shape Matching Objective",
+      "file_type": "rationale",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    },
+    {
+      "id": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_topology_optimization",
+      "label": "Topology Optimization of Air Chambers",
+      "file_type": "rationale",
+      "community": 10,
+      "community_name": "Morphological Design of Soft Robots",
+      "source_file": "Morphological Design for Pneumatic soft actuators and robots with desired deformation behaviour.pdf"
+    }
+  ],
+  "links": [
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_caasenbrood_topology_optimization",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_topology_optimization",
+      "relation": "cites",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_chen_triply_periodic_channels",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "cites",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_maloisel_muscle_fiber_routing",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "cites",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_maloisel_muscle_fiber_routing",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shape_matching_objective",
+      "relation": "cites",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_feifei_chen",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_feifei_chen",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shanghai_jiao_tong_university",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_guoying_gu",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_guoying_gu",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shanghai_jiao_tong_university",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_paper",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shitong_chen",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shitong_chen",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shanghai_jiao_tong_university",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_topology_optimization",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_xiangyang_zhu",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_xiangyang_zhu",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shanghai_jiao_tong_university",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_zenan_song",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_zenan_song",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shanghai_jiao_tong_university",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_inverse_design_problem",
+      "relation": "implements",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shape_matching_objective",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "implements",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_shape_matching_objective",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_robot_arm",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_robot_arm",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_twisting_actuator",
+      "target": "morphological_design_for_pneumatic_soft_actuators_and_robots_with_desired_deformation_behaviour_morphological_design",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    }
+  ]
+}
